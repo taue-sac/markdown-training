@@ -15,3 +15,10 @@ var myVar = "Hello, world!";
 ``` python
 PyVar = "Hello snake world"
 ```
+It said a branch was made for me, and that I'll need to add to the file they've created in the branch, but I don't know where this is so I'll do this here
+
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [ ] Step 4
+- [ ] Step 5
